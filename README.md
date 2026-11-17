@@ -2,6 +2,8 @@
 
 Exercicio de integracao continua com HTMLHint e GitHub Actions.
 
+As respostas das questoes 2, 3 e 4 e os links das evidencias estao em [RESPOSTAS.md](RESPOSTAS.md).
+
 ## Executar localmente
 
 Requisito: Node.js 22 e npm.
